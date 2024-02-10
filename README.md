@@ -31,7 +31,7 @@ Run the Django development server:
 # Django Admin details
 
 Username: - todo
-Password: - Todo@912![image](https://github.com/Shourya-912/todo_list/assets/138221216/893a8ee7-942f-4c50-beca-d0f66ca6835e)
+Password: - Todo@912
 
 or to create superuser as follow
 
