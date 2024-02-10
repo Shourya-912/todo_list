@@ -29,6 +29,7 @@ Run the Django development server:
    `python manage.py runserver`
 
 # Django Admin details
+you can visit http://shourya707.pythonanywhere.com/admin and login with below credentials to edit tasks
 
 Username: - todo
 Password: - Todo@912
@@ -38,4 +39,4 @@ or to create superuser as follow
 # Creating Superuser
 `python manage.py createsuperuser`
 
-The application will be accessible at http://127.0.0.1:8000/.
+The application will be accessible at http://shourya707.pythonanywhere.com/.
