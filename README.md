@@ -28,4 +28,14 @@ This is a simple Django project for Creating todos.
 Run the Django development server:
    `python manage.py runserver`
 
+# Django Admin details
+
+Username: - todo
+Password: - Todo@912![image](https://github.com/Shourya-912/todo_list/assets/138221216/893a8ee7-942f-4c50-beca-d0f66ca6835e)
+
+or to create superuser as follow
+
+# Creating Superuser
+`python manage.py createsuperuser`
+
 The application will be accessible at http://127.0.0.1:8000/.
