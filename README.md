@@ -20,8 +20,8 @@ This is a simple Django project for Creating todos.
    
    
 4. Run migrations:
-   `python manage.py makemigration
-    python manage.py migrate`
+   `python manage.py makemigration`
+   `python manage.py migrate`
    
 # Running the Development Server
 
