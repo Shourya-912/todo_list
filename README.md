@@ -19,7 +19,7 @@ This is a simple Django project for Creating todos.
    `cd todo_list`
    
    
-4. Run migrations:
+3. Run migrations:
    `python manage.py makemigration`
    `python manage.py migrate`
    
@@ -39,4 +39,3 @@ or to create superuser as follow
 # Creating Superuser
 `python manage.py createsuperuser`
 
-The application will be accessible at http://shourya707.pythonanywhere.com/.
